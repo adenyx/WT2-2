@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<product>
+		<type>teapot</type>
+		<model>ChaIka223</model>
+		<specif>
+			<power MS="W">2000</power>
+			<sizeCapacity MS="l">5</sizeCapacity>
+		</specif>
+		<price curr="$">30</price>
+	</product>
+	<product>
+		<type>teapot</type>
+		<model>ChaIka223</model>
+		<specif>
+			<power MS="W">1800</power>
+			<sizeCapacity MS="l">3</sizeCapacity>
+		</specif>
+		<price curr="$">15</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Holodos2.0</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">288</energyConsum>
+		</specif>
+		<price curr="$">55</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Atlant</model>
+		<specif>
+			<freezer>false</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">175</energyConsum>
+		</specif>
+		<price curr="$">35</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Holodos9000</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">322</energyConsum>
+		</specif>
+		<price curr="$">68</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>M2000</model>
+		<specif>
+			<powerGrill MS="W">1200</powerGrill>
+			<powerWave MS="W">800</powerWave>
+			<sizeCamera MS="l">20</sizeCamera>
+		</specif>
+		<price curr="$">45</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>M2000.35</model>
+		<specif>
+			<powerGrill MS="W">1000</powerGrill>
+			<powerWave MS="W">500</powerWave>
+			<sizeCamera MS="l">15</sizeCamera>
+		</specif>
+		<price curr="$">35</price>
+	</product>
+</catalog>
